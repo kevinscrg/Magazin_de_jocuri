@@ -1,0 +1,15 @@
+# ninja log v5
+5	1163	7317661420000000	CMakeFiles/Prob_lab_9_10.dir/main.cpp.obj	1507b59f224e9018
+5	1614	7317638900000000	CMakeFiles/Prob_lab_9_10.dir/Entitate/jocuri.cpp.obj	cc58f5b2fc4265ca
+18	1430	7317661420000000	CMakeFiles/Prob_lab_9_10.dir/Test/Teste.cpp.obj	775517b4850a09b3
+34	1654	7317658580000000	CMakeFiles/Prob_lab_9_10.dir/Repo/Casa_marc.cpp.obj	8592fd355eb520d9
+10	2555	7317653520000000	CMakeFiles/Prob_lab_9_10.dir/Repo/RepoJoc.cpp.obj	ae1bbc3b4e76fd88
+1305	1694	7317661560000000	Prob_lab_9_10.exe	3ec40a79515c9d96
+0	302	7317673380000000	build.ninja	966d7cf97388af0a
+23	2409	7317653520000000	CMakeFiles/Prob_lab_9_10.dir/Repo/fileRepo.cpp.obj	d4b0e6422b4bda6f
+10	1397	7317661420000000	CMakeFiles/Prob_lab_9_10.dir/Ui/Ui.cpp.obj	c7b60a55afbc015c
+6	1305	7317661560000000	CMakeFiles/Prob_lab_9_10.dir/Service/Service.cpp.obj	134ccc7481d1bc9f
+2313	3311	7317638920000000	CMakeFiles/Prob_lab_9_10.dir/Repo/Exception.cpp.obj	c1e51ea55024246f
+2459	3402	7317638920000000	CMakeFiles/Prob_lab_9_10.dir/Repo/Validator.cpp.obj	d5dc540898933301
+27	1518	7317658580000000	CMakeFiles/Prob_lab_9_10.dir/Repo/Casa_de_marcat.cpp.obj	a4b0f53e7606b71e
+5	1420	7317659340000000	CMakeFiles/Prob_lab_9_10.dir/Repo/Casa_de_marcat_file.cpp.obj	ecdbcdf6b4301ae3
